@@ -5,7 +5,7 @@
 <img align="center" alt="Codin Page" src="https://media.giphy.com/media/qdf1QyvxipVh6/giphy.gif"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namoavighna20&label=Profile%20views&color=0e75b6&style=flat" alt="namoavighna20" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=namoavighna20&label=Profile%20views&color=0e75b6&style=flat" alt="namoavighna20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namoavighna20" alt="namoavighna20" /></a> </p>
 
