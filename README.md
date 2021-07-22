@@ -9,6 +9,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namoavighna20" alt="namoavighna20" /></a> </p>
 
+- 🔭 I’m currently working on **C,C++,JAVA**
+
+- 🌱 I’m currently learning **PYTHON,DJANGO**
+
+- 💬 Ask me about **Techspecs, ETS2 simulation mods**
+
 - 📫 How to reach me **prateekgoutam20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
